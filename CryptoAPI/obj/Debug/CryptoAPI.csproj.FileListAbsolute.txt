@@ -1,0 +1,228 @@
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\CryptoAPI.dll.config
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\CryptoAPI.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\CryptoAPI.pdb
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\csc.exe
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\csc.exe.config
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\csc.rsp
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\csi.exe
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\csi.exe.config
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\csi.rsp
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.AppContext.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Console.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\vbc.exe
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\vbc.exe.config
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\vbc.rsp
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\Antlr3.Runtime.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\Newtonsoft.Json.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\System.Web.Helpers.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\System.Web.Mvc.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\System.Web.Optimization.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\System.Web.Razor.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\WebGrease.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\System.Web.Helpers.xml
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\System.Web.Mvc.xml
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\System.Web.Optimization.xml
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\System.Web.Razor.xml
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.xml
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\Newtonsoft.Json.xml
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\Antlr3.Runtime.pdb
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\obj\Debug\CryptoAPI.csprojAssemblyReference.cache
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\obj\Debug\CryptoAPI.csproj.CoreCompileInputs.cache
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\obj\Debug\CryptoAPI.csproj.CopyComplete
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\obj\Debug\CryptoAPI.dll
+C:\Users\TRUST\source\repos\CryptoAPI\CryptoAPI\obj\Debug\CryptoAPI.pdb
+D:\Test Project\CryptoAPI\CryptoAPI\bin\CryptoAPI.dll.config
+D:\Test Project\CryptoAPI\CryptoAPI\bin\CryptoAPI.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\CryptoAPI.pdb
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\csc.exe
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\csc.exe.config
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\csc.rsp
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\csi.exe
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\csi.exe.config
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\csi.rsp
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.AppContext.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Console.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.IO.Compression.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.IO.Pipes.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Claims.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.ValueTuple.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\vbc.exe
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\vbc.exe.config
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\vbc.rsp
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\VBCSCompiler.exe
+D:\Test Project\CryptoAPI\CryptoAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Test Project\CryptoAPI\CryptoAPI\bin\Antlr3.Runtime.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\Newtonsoft.Json.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\System.Web.Helpers.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\System.Web.Mvc.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\System.Web.Optimization.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\System.Web.Razor.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.Razor.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\WebGrease.dll
+D:\Test Project\CryptoAPI\CryptoAPI\bin\System.Web.Helpers.xml
+D:\Test Project\CryptoAPI\CryptoAPI\bin\System.Web.Mvc.xml
+D:\Test Project\CryptoAPI\CryptoAPI\bin\System.Web.Optimization.xml
+D:\Test Project\CryptoAPI\CryptoAPI\bin\System.Web.Razor.xml
+D:\Test Project\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.xml
+D:\Test Project\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Test Project\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.Razor.xml
+D:\Test Project\CryptoAPI\CryptoAPI\bin\Newtonsoft.Json.xml
+D:\Test Project\CryptoAPI\CryptoAPI\bin\Antlr3.Runtime.pdb
+D:\Test Project\CryptoAPI\CryptoAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Test Project\CryptoAPI\CryptoAPI\obj\Debug\CryptoAPI.csprojAssemblyReference.cache
+D:\Test Project\CryptoAPI\CryptoAPI\obj\Debug\CryptoAPI.csproj.CoreCompileInputs.cache
+D:\Test Project\CryptoAPI\CryptoAPI\obj\Debug\CryptoAPI.csproj.CopyComplete
+D:\Test Project\CryptoAPI\CryptoAPI\obj\Debug\CryptoAPI.dll
+D:\Test Project\CryptoAPI\CryptoAPI\obj\Debug\CryptoAPI.pdb
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\CryptoAPI.dll.config
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\CryptoAPI.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\CryptoAPI.pdb
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\csc.exe
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\csc.exe.config
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\csc.rsp
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\csi.exe
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\csi.exe.config
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\csi.rsp
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.AppContext.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Console.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.IO.Compression.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.IO.Pipes.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.AccessControl.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Claims.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.ValueTuple.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Xml.XPath.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\vbc.exe
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\vbc.exe.config
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\vbc.rsp
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\VBCSCompiler.exe
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\Antlr3.Runtime.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\Newtonsoft.Json.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\System.Web.Helpers.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\System.Web.Mvc.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\System.Web.Optimization.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\System.Web.Razor.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.Deployment.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.Razor.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\WebGrease.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\System.Web.Helpers.xml
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\System.Web.Mvc.xml
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\System.Web.Optimization.xml
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\System.Web.Razor.xml
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.xml
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.Deployment.xml
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\System.Web.WebPages.Razor.xml
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\Newtonsoft.Json.xml
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\Antlr3.Runtime.pdb
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\obj\Debug\CryptoAPI.csproj.AssemblyReference.cache
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\obj\Debug\CryptoAPI.csproj.CoreCompileInputs.cache
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\obj\Debug\CryptoAPI.csproj.CopyComplete
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\obj\Debug\CryptoAPI.dll
+D:\C DAC\My Projects\CryptoAPI\CryptoAPI\obj\Debug\CryptoAPI.pdb

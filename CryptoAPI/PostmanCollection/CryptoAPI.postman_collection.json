@@ -1,0 +1,172 @@
+{
+	"info": {
+		"_postman_id": "f1b08e9d-246b-4c53-802c-7e8d35123f34",
+		"name": "CryptoAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31796616"
+	},
+	"item": [
+		{
+			"name": "http://localhost:51895/crypto/api/generate-keys",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:51895/cryptoRSA/api/generate-keys",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51895",
+					"path": [
+						"cryptoRSA",
+						"api",
+						"generate-keys"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:51895/crypto/api/encrypt",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"publicKey\": \"r5z0ihUAjPF8TfnGqI7Akc1IVCzzcGl1cmyNBkTJYBd4NbeMJNcbb/sm5T8bPP/znj57DbbE/ZYJSOV/FXX4MMx/hhSvyFLejOiSqeoAuEacNy6LMlysmh8H3kgtZmMfAuILJBIM6lC2thLdYdscdSKT5JCqjGsCmttNzeI99zd2dYBlpdv07mzq1FZBjYVjcRlNt9eBRf9QvESqXXHN82w1dIhXT2ei5y27SpjkOyysjyHvnatnXrQxXQk5CWJg6Z4+YZ/OfwYdTjaHKILap1vjqDKOa4Dte4grcOFAkUYKIWYvtg51dH939rF35zf8YVeunrgWzulSVWNGcJshXQ==\",\r\n    \"dataToEncrypt\": \"abhinav\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:51895/cryptoRSA/api/encrypt",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51895",
+					"path": [
+						"cryptoRSA",
+						"api",
+						"encrypt"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:51895/crypto/api/decrypt",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"privateKey\": \"BwIAAACkAABSU0EyAAgAAAEAAQBdIZtwRmNVUunOFrierldh/Dfnd7H2d390dQ62L2YhCkaRQOFwK4h77YBrjjKo41un2oIohzZOHQZ/zp9hPp7pYGIJOQldMbReZ6ud7yGPrCw75JhKuy3nomdPV4h0NWzzzXFdqkS8UP9Fgde3TRlxY4WNQVbU6mzu9NulZYB1djf3PeLNTduaAmuMqpDkkyJ1HNth3RK2tlDqDBIkC+ICH2NmLUjeBx+arFwyiy43nEa4AOqpkuiM3lLIrxSGf8ww+HUVf+VICZb9xLYNez6e8/88Gz/lJvtvG9ckjLc1eBdgyUQGjWxydWlw8yxUSM2RwI6oxvlNfPGMABWK9Jyvx10Fw7OC6KJIwNV3HYhX53aqQzipGjynE80Pnmc/gc5876xJOD75/ExQMSB9MgWMlvI8RU2FPyutVgwUuV727z7IF8lucBI1ZT0I1Im5n0MILG9Ots8+eeoEUBXGdNvWH29i1PBavk5+tpxzjcwRgrhE373ByJpQviOlxJqyKdS7V6ckAF/D8ceb+nMWkUZdM1fB7P6S6OQJzfTZn7il2XNKEpGv2HFyJEAeaTZtW2DQ+gKiHc3T0XiwA3V8wkN4DHx5MGIpH41qQyaVomNsHHWlCq04mnJ/25NbZUDS/75AhoAGsIev4PaldShUUwCAZv/W/3UYu5y07u3GZPfl09Mqfudi1P/IvKJ4HpYh7nkSnHKNlhEjDMoMmyGympKcsBIXVra32Sd2CbqeM+Z9ni0CM0DvE6nKND1Ik/O5VAwbXdmPq7mPc65/CLjRDe1iouK93YBoqjVe5S6zo5BFaH2Gc1ewPGPUfVic1MtQoWmZjEJ1c7dEfRtJn/881x3Hbe9NeQ2tvyJIwygWNXDzdgSyFxcKuklpdutBCF3P0ji4at3LJoZ/MIiNex2asGdWfFAscwTY0FdIYkSwAEsN5+VNvcrKG8OIqa6bV1a+Z3xnNEnL4VpBHeE0l80zsmOGMINf8twS8akMGSZuajnd9I3Kvm9eadGHkouWLd0sr3VL9+Yd6RbJ0C7RzrBjPZ4PiZomB0kwTrYP/+wKnlqAnssutOB3ikQcjV4+yO90oOwgpoiTtfEXSRIs9/N7IFtnBShp1wRGRvEKRO76kaaNvtM+zxdYoJO3Oc73tqrbgN8YpeEBIXJfKc90ATSEh6JP/7mvPIyN5EQ0qurMNRCxvKldI/dikPAfPW3q5SM+PEbBcVkclbMCik7R47WIkXhyiQYIUMIGmSMNdDu2UP5zfrHdh2y1pqIAlehQH22Y0VaBmOC+L12PA9MXRcAk/O6N9bzXhI+36CDn2lch6NdgHnshMh2Qsar3e3GVma/+lo8PArAKrW1OwFIpTLE1erp0mut4mRgzkcPmWbFhQj+hrmMpIw4JG/keuw5vgUCO2xcHGPfKIAbRyElIU8xhTSYSqlB0DTWUYkMond8zpATJ3zP5XTw1ifiLgwmI83yY/+weyCxF+KedjRzwoTv4oCEhSneW6YltmhczffMkp6WebCkSEkwHsuUlJFj0H+uogyA=\",\r\n    \"dataToDecrypt\": \"Dr+JjoPnFftftTJSq31gxxtR8BcNLFXRIjDiQ0Gx9XPM5OiJXcdgyB2cVHUJh/viadMxLZQa85/sZay6OGyf3+/TXS55KuqJP33LnlIRHtWGliRdD+vj+veH5P0c0wbzM1vhb5x/nvS01GT8hn21xytQZsuMgWQEPQMUpJxptt44daMpDUODbYZOYMo3j9NSUOAQuTiNTKb23kVDi4duoqG/W9TC/0tA1xz6yZYF5SjpurKEKh+lgUszpR2rULfQ10w4ZORuD3AT0eGYbtSrVF4fsYWQxuTtPP4FCQ2P2oilIL1OsE+rrRv6mUNj897rrxiiH37rT0nVIdmhvwxoNg==\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:51895/cryptoRSA/api/decrypt",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51895",
+					"path": [
+						"cryptoRSA",
+						"api",
+						"decrypt"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:51895/cryptoAES/api/encrypt",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"dataToEncrypt\": \"abhinav\",\r\n  \"Key\": \"YyxFBC3/ijUR6NFVA6qQL5eKJfAdy6vE/eAXjKQmqA0=\",\r\n  \"IV\": \"lhUU5f1LKH2ee+OIpz7SHQ==\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:51895/cryptoAES/api/encrypt",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51895",
+					"path": [
+						"cryptoAES",
+						"api",
+						"encrypt"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:51895/cryptoAES/api/decrypt",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"dataToDecrypt\": \"XLIa3ROMInb1jsSLvJ3ejA==\",\r\n  \"Key\": \"YyxFBC3/ijUR6NFVA6qQL5eKJfAdy6vE/eAXjKQmqA0=\",\r\n  \"IV\": \"lhUU5f1LKH2ee+OIpz7SHQ==\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:51895/cryptoAES/api/decrypt",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51895",
+					"path": [
+						"cryptoAES",
+						"api",
+						"decrypt"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:51895/cryptoAES/api/generate-keys",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:51895/cryptoAES/api/generate-keys",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51895",
+					"path": [
+						"cryptoAES",
+						"api",
+						"generate-keys"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

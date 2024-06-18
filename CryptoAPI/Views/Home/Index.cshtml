@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>CryptoAPI is started</h1>
+    @*<p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS and JavaScript.</p>
+    <p><a href="https://asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>*@
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Getting started</h2>
+        <h5>Use tools like Postman to test the endpoints:</h5>
+        <p>
+            GET: /crypto/api/generate-keys <br />to generate the RSA keys and check if errors are handled.
+        </p>
+        <p>
+            POST: /crypto/api/encrypt
+            <br /> JSON body: <br />
+            { <br />
+            "publicKey": "yourPublicKey", <br />
+            "dataToEncrypt": "yourData" <br />
+            }
+        </p>
+        <p>
+            POST: /crypto/api/decrypt
+            <br /> JSON body: <br />
+            { <br />
+            "privateKey": "yourPrivateKey", <br />
+            "dataToDecrypt": "yourEncryptedData" <br />
+            }
+        </p>
+
+    </div>
+</div>
